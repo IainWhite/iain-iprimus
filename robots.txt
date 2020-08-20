@@ -1,0 +1,6 @@
+# Robots.txt file by Iain White
+
+User-agent: *
+Allow: /
+
+Sitemap:  http://home.iprimus.com.au/iain/sitemap.xml
